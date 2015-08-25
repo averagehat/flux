@@ -1,6 +1,8 @@
 # flux
 
-This is a fork of Matt Mitchell's Flux - a Clojure based Solr client. It includes updates from Ricardo Mendez (ricardojmendez) to update the Solr version to 5.2.0, and updates from Michał Buczko (mbuczko) to add a nice Criteria DSL to make Solr queries bit sweeter. Current Apache Solr version support is `5.2.0`.
+This is a fork of Matt Mitchell's Flux - a Clojure based Solr client. It includes updates from Ricardo Mendez (ricardojmendez) to update the Solr version to 5.2.1, and updates from Michał Buczko (mbuczko) to add a nice Criteria DSL to make Solr queries bit sweeter. 
+
+The current Apache Solr version supported is `5.2.1`.
 
 ## Installation (Leiningen)
 
